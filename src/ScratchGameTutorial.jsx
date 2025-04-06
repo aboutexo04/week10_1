@@ -21,32 +21,27 @@ const steps = [
     
   },
   {
-    title: "Step 2: Let's start coding with record sprite",
-    description: "It just rotates slowly. You can change the speed by changing the degree.",
-    image: "/images/step2.png"
-  },
-  {
-    title: "Step 3: Let's start coding with the result sprite",
+    title: "Step 2: Let's start coding with the result sprite",
     description: "Don't' forget to use evesdrop function to extrct the exact color.",
     image: "/images/result.png" 
   },
   {
-    title: "Step 4: Let's code the Heart sprite",
+    title: "Step 3: Let's code the Heart sprite",
     description: "You can move white dots to change your music, or you can add additional costumes to the record sprite.",
     image: "/images/heart.png"
   },
   {
-    title: "Step 5: Let's code the Stone sprite",
+    title: "Step 4: Let's code the Stone sprite",
     description:"Stone sprite creates falling clones every second when the green flag is clicked. Each clone appears at a random position near the top of the screen with a random costume and falls downward continuously. If a clone touches the character Nano or falls below the screen,it disappears. If touching Nano, it plays a sound and reduces a life by 1.",
     image: "/images/stone.png"
   },
   {
-    title: "Step 6: Let's code Nano sprite",
+    title: "Step 5: Let's code Nano sprite",
     description: "Nano can move left and right using the arrow keys. It also checks for game conditions: if the score becomes greater than 9, it broadcasts a success message, and if life drops below 1, it broadcasts gameover.",
     image: "/images/nano.png"
   },
   {
-    title: "Step 7: Test your game and share to the studio week10",
+    title: "Step 6: Test your game and share to the studio week10",
     description: "Dont forget to add your project to the studio week10.",
   },
   
